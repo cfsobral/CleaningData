@@ -2,7 +2,7 @@
  Assignment: Getting and Cleaning Data Course Project
 ---
 author: "Claudio  Sobral"
-date: "May 22, 2018"
+date: "May 26, 2018"
 ---
 #### Introduction
 
