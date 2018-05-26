@@ -1,10 +1,8 @@
 # CleaningData
  Assignment: Getting and Cleaning Data Course Project
 ---
-title: "Readme"
 author: "Claudio  Sobral"
 date: "May 22, 2018"
-output: html_document
 ---
 #### Introduction
 
